@@ -87,7 +87,7 @@ Result:
 Login bypass attempt failed
 secure
 
-Comparison: Automated vs Manual
+COMPARISION AUTOMATED VS MANUAL
 
 Issues Found by Automated Tools
 
