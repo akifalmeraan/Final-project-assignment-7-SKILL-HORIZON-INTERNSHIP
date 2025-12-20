@@ -103,3 +103,12 @@ Issues Found by Manual Testing
 Confirmed XSS execution via browser
 
 
+
+4) Whatweb fingerprinting
+   command:- whatweb http://localhost/dvwa
+
+   Dirb directory scan
+   command:- dirb http://localhost/dvwa
+
+   Nuclei scan
+   command:- nuclei -u http://localhost/dvwa
