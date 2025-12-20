@@ -123,3 +123,36 @@ Confirmed XSS execution via browser
    c) click get then go to responce
    d) change data
    e) if you get data of another user then it is idor.
+
+
+   
+Checking Security headers 
+
+command:- curl -I http://localhost/dvwa
+
+Gathering Sensitive information using JS
+STEPS:- 
+
+Open any website
+press right button, go to inspection
+then Sources 
+then press Ctrl+F and search keywords like, apiKey, token, password, secret, username.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
