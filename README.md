@@ -84,6 +84,7 @@ Password: test
 
 Result:
 
+
 Login bypass attempt failed
 secure
 
@@ -112,3 +113,13 @@ Confirmed XSS execution via browser
 
    Nuclei scan
    command:- nuclei -u http://localhost/dvwa
+
+
+5) IDOR (Insecure direcot object reference)
+   (Performing Idor)
+   steps
+   a) vist (owasp juice shop)
+   b) login and open network tab
+   c) click get then go to responce
+   d) change data
+   e) if you get data of another user then it is idor.
