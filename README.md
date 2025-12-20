@@ -3,8 +3,7 @@ Commands:- sudo apt update
 sudo apt install dvwa
 sudo dvwa-start
 
-
-Project 3:- AUTOMATED VS MANUAL SCANNING
+AUTOMATED VS MANUAL SCANNING
 Target application: OWASP juice shop
 url:http://127.0.0.1:3000 
 on kali linux
